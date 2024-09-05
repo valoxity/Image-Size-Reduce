@@ -1,2 +1,2 @@
 @ECHO OFF
-pyinstaller --onefile --uac-admin --icon=assets/logo.ico ImgMetaRemover.py
+pyinstaller --onefile --uac-admin --icon=assets/logo.ico ImageSizeReduce.py
